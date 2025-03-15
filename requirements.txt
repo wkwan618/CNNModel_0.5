@@ -1,0 +1,13 @@
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+mplfinance==0.12.10b0
+fastapi[standard]
+uvicorn
+requests
+numpy==1.24.4
+pandas==1.3.4
+pydantic
+httpx
+jsonref
+torch 
+torchvision
